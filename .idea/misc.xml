@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MovieApp/app/src/main/res/drawable/backgroud_bottombar.xml" value="0.1955" />
+        <entry key="..\:/MovieApp/app/src/main/res/drawable/background.xml" value="0.197" />
+        <entry key="..\:/MovieApp/app/src/main/res/drawable/background_movie_app.xml" value="0.1" />
+        <entry key="..\:/MovieApp/app/src/main/res/drawable/background_play.xml" value="0.1" />
+        <entry key="..\:/MovieApp/app/src/main/res/drawable/img_harryporter.xml" value="0.197" />
+        <entry key="..\:/MovieApp/app/src/main/res/drawable/txt_child.xml" value="0.197" />
+        <entry key="..\:/MovieApp/app/src/main/res/drawable/txt_minute.xml" value="0.1955" />
+        <entry key="..\:/MovieApp/app/src/main/res/drawable/txt_rectenly.xml" value="0.197" />
+        <entry key="..\:/MovieApp/app/src/main/res/drawable/txt_watch_video.xml" value="0.197" />
+        <entry key="..\:/MovieApp/app/src/main/res/font/playball.xml" value="0.1" />
+        <entry key="..\:/MovieApp/app/src/main/res/font/poppins_semibold.xml" value="0.1" />
+        <entry key="..\:/MovieApp/app/src/main/res/layout/activity_main.xml" value="0.19689119170984457" />
+        <entry key="..\:/MovieApp/app/src/main/res/layout/activity_movies.xml" value="0.18" />
+        <entry key="..\:/MovieApp/app/src/main/res/layout/activity_play.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
